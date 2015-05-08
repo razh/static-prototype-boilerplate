@@ -1,0 +1,28 @@
+{
+  "name": "static-prototype-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razh/static-prototype-boilerplate.git"
+  },
+  "author": "razh",
+  "private": true,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razh/static-prototype-boilerplate/issues"
+  },
+  "homepage": "https://github.com/razh/static-prototype-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.7.1",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-jade": "^1.0.0",
+    "gulp-stylus": "^2.0.1",
+    "run-sequence": "^1.1.0"
+  }
+}
